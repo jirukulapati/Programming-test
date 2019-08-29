@@ -14,4 +14,5 @@ docker-compose build
 docker-compose up -d
 
 Once it's deployed you can try it out by sending a request from the command line using curl.  Example:
+
 curl http://192.168.99.100/result
