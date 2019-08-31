@@ -8,6 +8,9 @@ Before running the program make sure you have python installed and that the pyth
 python programmer_test.py
 ```
 You should see the results printed out in the command line.  The same can be done for `programmer_test_distinct.py`.
+```
+python programmer_test_distinct.py
+```
 
 That should cover tasks 1-4.  
 
