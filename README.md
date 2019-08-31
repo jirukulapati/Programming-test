@@ -15,7 +15,7 @@ python programmer_test_distinct.py
 That should cover tasks 1-4.  
 
 # Extras- Docker and API
-The `Extras/test app` folder contains files to implement the `programmer_test_distinct.py` program with an API deployed using docker and Flask. Download the `test app` folder and navigate to it through the command line.  To set up your instance, run the following commands: 
+The `Extras` folder contains files to implement the `programmer_test_distinct.py` program with an API deployed using docker and Flask. Download the `test app` folder and navigate to it through the command line.  To set up your instance, run the following commands: 
 ```
 docker-machine create -d virtualbox test-app-vm
 docker-compose build
