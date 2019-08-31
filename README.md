@@ -1,7 +1,7 @@
 # Programming Test
 
 My solution was made using python and sqlite.  Task 1 said to find the people who have visited the most sites, 
-but it didn't specify whether to count all sites visited by a person or only include distinct sites.  So, I made two programs.  `programmer_test.py` counts **all sites** visited by a person, while `programmer_test_distinct.py` counts **all distinct sites** visited by a person
+but it didn't specify whether to count all sites visited by a person or only include distinct sites.  So, I made two programs.  `programmer_test.py` counts **all sites** visited by a person, while `programmer_test_distinct.py` counts **all distinct sites** visited by a person.
 
 Before running the program make sure you have python installed and that the python paths are correctly configured.  To run `programmer_test.py`, simply download it along with the testdb.db file.  Place both files in the same folder and navigate to that folder from the command line.  Then, from within the directory, run the following command:
 ```
